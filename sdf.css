@@ -1,0 +1,28 @@
+th{
+    color: white;
+    background-color: green;
+    text-align: center;
+}
+.test{
+    background-color: aqua;
+}
+h2{
+    color: #0055FF;
+    font-family: Georgia;
+}
+.tender{
+    color: #333333;
+    background-color: #f0f0f0;
+    width: 500px;
+}
+form{
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 500px;
+}
+.buton{
+    color: white;
+    background-color: green;
+    text-align: center;
+    width: 300px;
+}
